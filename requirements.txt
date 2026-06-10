@@ -1,0 +1,10 @@
+torch
+transformers
+accelerate
+sentencepiece
+numpy
+pandas
+matplotlib
+ipython
+jupyter
+tqdm
