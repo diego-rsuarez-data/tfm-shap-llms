@@ -1,4 +1,4 @@
-# TFM SHAP LLMs
+# Prefix Reuse SHAP
 
 This repository contains the notebooks developed for a Master's Thesis on
 token-level explainability in autoregressive language models.
